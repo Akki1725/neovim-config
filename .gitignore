@@ -1,0 +1,10 @@
+# plugins
+lazy-lock.json
+
+# swap / backup
+*.swp
+*.swo
+.sesion
+
+# OS files
+.DS_Store
