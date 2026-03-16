@@ -3,6 +3,7 @@
 vim.opt.number = true
 vim.opt.relativenumber = true
 vim.opt.signcolumn = "yes"
+vim.opt.clipboard = "unnamedplus"
 
 vim.opt.shortmess:append("I")
 
