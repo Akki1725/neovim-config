@@ -29,6 +29,8 @@ require("lazy").setup({
   { import = "plugins" },
 }, lazy_config)
 
+require("mason-lspconfig").setup()
+
 require "options"
 require "autocmds"
 
