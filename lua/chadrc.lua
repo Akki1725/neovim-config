@@ -1,5 +1,5 @@
 local M = {}
 
-M.base46 = { theme = "catppuccin" }
+M.base46 = { theme = "aylin" }
 
 return M
